@@ -1,2 +1,2 @@
-# TL76
-Press here: https://github.com/orgs/newbloodteam/teams/tl76
+# TL76 - General Issues
+# https://github.com/orgs/newbloodteam/teams/tl76
